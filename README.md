@@ -1,0 +1,29 @@
+# FinanceWisdomHub
+
+นี้คือ เว็บ Project ตอนปีที่ 2 เทอม 1 วิชา เว็บเทคโนโลยี เว็บเกี่ยวกับการ รวบรวม แนะนำ แหล่งความรู้ทางการเงิน ฟรี รวมถึง ช่องทาง ต่างๆ เช่น mooc , youtube , tiktok ,facebook
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
